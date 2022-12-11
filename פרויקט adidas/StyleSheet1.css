@@ -1,0 +1,198 @@
+﻿body {
+    background-color: #eceef0;
+    direction: rtl;
+}
+h1 {
+    /*background-color: white;*/
+    display: grid;
+    text-align: center;
+    margin: 20px;
+    font-size: 105px;
+    font-family: Century Gothic;
+}
+h2 {
+    /*background-color: white;*/
+    display: grid;
+    text-align:center;
+    margin: 100px;
+    font-size:550%;
+    direction: rtl;
+    position: center;
+    font-family: Arial Black;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float:right;
+}
+
+    li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 40px;
+        text-decoration: none;
+        width: 60%;
+    }
+
+        li a:hover:not(.active) {
+            background-color: #111;
+        }
+
+.active {
+    background-color: #4CAF50;
+}
+img {
+    width:50%;
+    margin-bottom:19%;
+
+    margin-top:20%;
+    height:50%;
+}
+p{
+    direction:rtl;
+}
+.div {
+    float: left;
+    border-radius: 4px;
+    margin-left: 8%;
+    
+    width: 15%;
+    height: 10%;
+    background-color:#cabcbc99;
+}
+form{
+    direction:rtl;
+}
+a{
+    text-decoration:none
+}
+#i{
+    width:50%;
+    height:25%;
+    margin-left:25%;
+
+}
+.img_bac {
+    position: relative;
+    left: -25px;
+    height: 56%;
+    width: 96%;
+    top: -3px;
+}
+#div {
+    background-color: #333333;
+    width: 90%;
+    height: 72%;
+    font-size: 258%;
+    position: relative;
+    left: -9px;
+    text-align: center;
+    color: white;
+    padding-right: 9px;
+    padding-left: 15px;
+}
+#en {
+    width: 185px;
+    height: 50px;
+    margin-top: 8%;
+    margin-right: 45%;
+    background-color: #acb7c1;
+}
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+    .flex-container  div {
+        float: left;
+        border-radius: 4px;
+        margin-left: 8%;
+     
+        height: 10%;
+        background-color: #cabcbc99;
+        
+        margin: 10px;
+        text-align: center;
+    
+        
+    }
+
+.flex-container {
+    margin-top: 156px;
+}
+/* For desktop: 
+.col-1 {
+    width: 8.33%;
+}
+
+.col-2 {
+    width: 16.66%;
+}
+
+.col-3 {
+    width: 25%;
+}
+
+.col-4 {
+    width: 33.33%;
+}
+
+.col-5 {
+    width: 41.66%;
+
+
+.col-6 {
+    width: 50%;
+}
+
+.col-7 {
+    width: 58.33%;
+}
+
+.col-8 {
+    width: 66.66%;
+}
+
+.col-9 {
+    width: 75%;
+}
+
+.col-10 {
+    width: 83.33%;
+}
+
+.col-11 {
+    width: 91.66%;
+}
+
+.col-12 {
+    width: 100%;
+}
+*/
+@media only screen and (max-width: 768px) {
+  .navbar{
+      display:grid;
+  }
+    #div {
+        width: 57%;
+        height: 1%;
+        font-size: 134%;
+    }
+  input{
+      width:94%
+  }
+  h3{
+      font-size:1%;
+  }
+
+}

@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="..\packages\Microsoft.Net.Compilers.2.6.1\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.2.6.1\build\Microsoft.Net.Compilers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{36638758-210F-447E-B594-E70B56B9EAA0}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>פרויקט_adidas</RootNamespace>
+    <AssemblyName>פרויקט adidas</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="חליפות ילדים.html" />
+    <Content Include="חליפות תינוקות.html" />
+    <Content Include="חולצות ילדים.html" />
+    <Content Include="ילדות\חולצןת\1 %2826%29.jpg" />
+    <Content Include="ילדות\חולצןת\ט.jpg" />
+    <Content Include="ילדות\חולצןת\לםןלחי.PNG" />
+    <Content Include="ילדות\חולצןת\מסע.PNG" />
+    <Content Include="ילדות\חולצןת\ננננ.PNG" />
+    <Content Include="ילדות\חולצןת\עחוען.PNG" />
+    <Content Include="ילדות\חולצןת\צמגע.PNG" />
+    <Content Include="ילדות\חולצןת\צמצחיל.PNG" />
+    <Content Include="ילדות\חולצןת\‏‏לכיידה.PNG" />
+    <Content Include="ילדות\מכנסיים\1 %282%29.png" />
+    <Content Include="ילדות\מכנסיים\1 %2821%29.jpg" />
+    <Content Include="ילדות\מכנסיים\1 %2822%29.jpg" />
+    <Content Include="ילדות\מכנסיים\1 %2825%29.jpg" />
+    <Content Include="ילדות\מכנסיים\1 %283%29.png" />
+    <Content Include="ילדות\מכנסיים\35.PNG" />
+    <Content Include="ילדות\מכנסיים\g.png" />
+    <Content Include="ילדות\מכנסיים\גכ.PNG" />
+    <Content Include="ילדות\מכנסיים\נעי.PNG" />
+    <Content Include="ילדות\מכנסיים\ץפםעכ.PNG" />
+    <Content Include="ילדות\מכנסיים\תלמנה.PNG" />
+    <Content Include="ילדות\נעליים\11תכבי.png" />
+    <Content Include="ילדות\נעליים\444-.PNG" />
+    <Content Include="ילדות\נעליים\54656.PNG" />
+    <Content Include="ילדות\נעליים\657.PNG" />
+    <Content Include="ילדות\נעליים\אאא.PNG" />
+    <Content Include="ילדות\נעליים\אקא.PNG" />
+    <Content Include="ילדות\נעליים\אקא2.png" />
+    <Content Include="ילדות\נעליים\ד%27רקאו.PNG" />
+    <Content Include="ילדות\נעליים\חטםןת.PNG" />
+    <Content Include="ילדות\נעליים\ךצך.PNG" />
+    <Content Include="ילדות\נעליים\מממץ.PNG" />
+    <Content Include="ילדות\נעליים\נעל כסופה.PNG" />
+    <Content Include="ילדות\נעליים\עחכג.PNG" />
+    <Content Include="ילדות\נעליים\עייעכגח.PNG" />
+    <Content Include="ילדות\נעליים\עכג.PNG" />
+    <Content Include="ילדות\נעליים\ףףף.PNG" />
+    <Content Include="ילדות\נעליים\קקק.PNG" />
+    <Content Include="ילדות\נעליים\תכבי.PNG" />
+    <Content Include="ילדות\נעליים\תנמ.PNG" />
+    <Content Include="ילדים\חולצות\אייאח.PNG" />
+    <Content Include="ילדים\חולצות\ה.jpg" />
+    <Content Include="ילדים\חולצות\ו.jpg" />
+    <Content Include="ילדים\חולצות\טטטט.PNG" />
+    <Content Include="ילדים\חולצות\ילחם.PNG" />
+    <Content Include="ילדים\חולצות\כעכ.PNG" />
+    <Content Include="ילדים\חולצות\ליעכ.PNG" />
+    <Content Include="ילדים\חולצות\לםןךעי.PNG" />
+    <Content Include="ילדים\חולצות\לםןלחי.PNG" />
+    <Content Include="ילדים\חולצות\מיכעי.PNG" />
+    <Content Include="ילדים\חולצות\מסע.PNG" />
+    <Content Include="ילדים\חולצות\ןםיע.PNG" />
+    <Content Include="ילדים\חולצות\עחטימיל.PNG" />
+    <Content Include="ילדים\חולצות\תכגי.PNG" />
+    <Content Include="ילדים\חולצות\תכע.PNG" />
+    <Content Include="ילדים\חליפות\111.PNG" />
+    <Content Include="ילדים\חליפות\222.PNG" />
+    <Content Include="ילדים\חליפות\32.PNG" />
+    <Content Include="ילדים\חליפות\גגגג.PNG" />
+    <Content Include="ילדים\חליפות\ז.jpg" />
+    <Content Include="ילדים\חליפות\כנטארחימ.PNG" />
+    <Content Include="ילדים\חליפות\ל8ם.PNG" />
+    <Content Include="ילדים\חליפות\םםם.PNG" />
+    <Content Include="ילדים\חליפות\תתתת.PNG" />
+    <Content Include="ילדים\מכנסיים\30.PNG" />
+    <Content Include="ילדים\מכנסיים\ח.jpg" />
+    <Content Include="ילדים\מכנסיים\םארח.PNG" />
+    <Content Include="ילדים\מכנסיים\ץםפךלחי.PNG" />
+    <Content Include="ילדים\מכנסיים\צ.jpg" />
+    <Content Include="ילדים\מכנסיים\צחכגכע.PNG" />
+    <Content Include="ילדים\מכנסיים\צןחעהכח.PNG" />
+    <Content Include="ילדים\נעליים\11.PNG" />
+    <Content Include="ילדים\נעליים\33.PNG" />
+    <Content Include="ילדים\נעליים\5.PNG" />
+    <Content Include="ילדים\נעליים\6576.PNG" />
+    <Content Include="ילדים\נעליים\====.PNG" />
+    <Content Include="ילדים\נעליים\אקא.PNG" />
+    <Content Include="ילדים\נעליים\חולצת.PNG" />
+    <Content Include="ילדים\נעליים\נעל.jpg" />
+    <Content Include="ילדים\נעליים\עייעכגח.PNG" />
+    <Content Include="יציאה.html" />
+    <Content Include="כובעים\1 %2810%29.jpg" />
+    <Content Include="כובעים\1 %2811%29.jpg" />
+    <Content Include="כובעים\1 %2819%29.jpg" />
+    <Content Include="כובעים\1 %2834%29.jpg" />
+    <Content Include="כובעים\1 %2836%29.jpg" />
+    <Content Include="כובעים\1 %2842%29.jpg" />
+    <Content Include="כובעים\1 %285%29.jpg" />
+    <Content Include="כובעים\1 %287%29.jpg" />
+    <Content Include="חולצות ילדות.html" />
+    <Content Include="דף קניה.html" />
+    <Content Include="כניסה2.html" />
+    <Content Include="מכנסיים ילדות.html" />
+    <Content Include="מכנסיים ילדים.html" />
+    <Content Include="נעליים ילדות.html" />
+    <Content Include="נעליים ילדים.html" />
+    <Content Include="נעליים תינוקות.html" />
+    <Content Include="סיילים.html" />
+    <Content Include="סניפים.html" />
+    <Content Include="תינוקות\חליפות\3.PNG" />
+    <Content Include="תינוקות\חליפות\444.PNG" />
+    <Content Include="תינוקות\חליפות\75587698.PNG" />
+    <Content Include="תינוקות\חליפות\988676.PNG" />
+    <Content Include="תינוקות\חליפות\א5א.PNG" />
+    <Content Include="תינוקות\חליפות\ג.jpg" />
+    <Content Include="תינוקות\חליפות\חוועי.PNG" />
+    <Content Include="תינוקות\חליפות\חיוטן.PNG" />
+    <Content Include="תינוקות\חליפות\חיחיל.PNG" />
+    <Content Include="תינוקות\חליפות\ייי.PNG" />
+    <Content Include="תינוקות\חליפות\ךך.PNG" />
+    <Content Include="תינוקות\חליפות\כככככ.PNG" />
+    <Content Include="תינוקות\חליפות\ל.jpg" />
+    <Content Include="תינוקות\חליפות\לגיוחימנ.PNG" />
+    <Content Include="תינוקות\חליפות\ליחם.PNG" />
+    <Content Include="תינוקות\חליפות\מיאחמל.PNG" />
+    <Content Include="תינוקות\חליפות\מצין.PNG" />
+    <Content Include="תינוקות\חליפות\ןחיכע.PNG" />
+    <Content Include="תינוקות\חליפות\נ.jpg" />
+    <Content Include="תינוקות\חליפות\ע.jpg" />
+    <Content Include="תינוקות\חליפות\עמחייעכי.PNG" />
+    <Content Include="תינוקות\חליפות\עעע.PNG" />
+    <Content Include="תינוקות\חליפות\פףךצח.PNG" />
+    <Content Include="תינוקות\חליפות\ץל.PNG" />
+    <Content Include="תינוקות\חליפות\צחולנ.PNG" />
+    <Content Include="תינוקות\חליפות\צחךל.PNG" />
+    <Content Include="תינוקות\חליפות\צכה.PNG" />
+    <Content Include="תינוקות\חליפות\צןה.PNG" />
+    <Content Include="תינוקות\חליפות\ר44.PNG" />
+    <Content Include="תינוקות\חליפות\רר.PNG" />
+    <Content Include="תינוקות\חליפות\תצנצ.PNG" />
+    <Content Include="תינוקות\חליפות\‏‏לחכידה.PNG" />
+    <Content Include="תינוקות\נעליים\-909-.PNG" />
+    <Content Include="תינוקות\נעליים\000.PNG" />
+    <Content Include="תינוקות\נעליים\133.PNG" />
+    <Content Include="תינוקות\נעליים\3234.PNG" />
+    <Content Include="תינוקות\נעליים\3234אא.png" />
+    <Content Include="תינוקות\נעליים\54.PNG" />
+    <Content Include="תינוקות\נעליים\546.PNG" />
+    <Content Include="תינוקות\נעליים\55.PNG" />
+    <Content Include="תינוקות\נעליים\5657.PNG" />
+    <Content Include="תינוקות\נעליים\66.PNG" />
+    <Content Include="תינוקות\נעליים\גגג.PNG" />
+    <Content Include="תינוקות\נעליים\חולחמ.PNG" />
+    <Content Include="תינוקות\נעליים\חילנהעיח.PNG" />
+    <Content Include="תינוקות\נעליים\טטטטו.PNG" />
+    <Content Include="תינוקות\נעליים\לטוחצ.PNG" />
+    <Content Include="תינוקות\נעליים\ממממ.PNG" />
+    <Content Include="תינוקות\נעליים\צהניט.PNG" />
+    <Content Include="תינוקות\נעליים\צחלנמ.PNG" />
+    <Content Include="תינוקות\נעליים\צלםךמנ.PNG" />
+    <Content Include="תינוקות\נעליים\צרככט.PNG" />
+    <Content Include="תינוקות\נעליים\קקקק.PNG" />
+    <Content Include="תינוקות\נעליים\ת.jpg" />
+    <Content Include="תינוקות\נעליים\תחמל.PNG" />
+    <Content Include="תינוקות\נעליים\תכגכי.PNG" />
+    <Content Include="תינוקות\נעליים\תלחחיע.PNG" />
+    <Content Include="תינוקות\נעליים\‏‏לכידה.PNG" />
+    <Content Include="אודות.html" />
+    <Content Include="StyleSheet1.css" />
+    <Content Include="Web.config" />
+    <Content Include="דף הבית.html" />
+    <Content Include="תיקים\%27%27%27%27%27.PNG" />
+    <Content Include="תיקים\1 %281%29.jpg" />
+    <Content Include="תיקים\1 %2812%29.jpg" />
+    <Content Include="תיקים\1 %2816%29.jpg" />
+    <Content Include="תיקים\1 %283%29.jpg" />
+    <Content Include="תיקים\1 %2831%29.jpg" />
+    <Content Include="תיקים\1 %2837%29.jpg" />
+    <Content Include="תיקים\1 %2838%29.jpg" />
+    <Content Include="תיקים\1 %284%29.jpg" />
+    <Content Include="תיקים\1 %2840%29.jpg" />
+    <Content Include="תיקים\1 %2841%29.jpg" />
+    <Content Include="תיקים\1 %2847%29.jpg" />
+    <Content Include="תיקים\878.PNG" />
+    <Content Include="תיקים\ד.jpg" />
+    <Content Include="תיקים\חח.PNG" />
+    <Content Include="תיקים\יייי.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <Content Include="ילדות\חולצןת\Thumbs.db" />
+    <Content Include="ילדים\נעליים\Thumbs.db" />
+    <Content Include="תיקים\Thumbs.db" />
+    <Content Include="כובעים\Thumbs.db" />
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>51769</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:51769/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.2.6.1\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.2.6.1\build\Microsoft.Net.Compilers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

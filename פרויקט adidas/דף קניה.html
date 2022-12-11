@@ -1,0 +1,310 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="StyleSheet1.css" rel="stylesheet" />
+
+
+    <style>
+            input[type=text], select {
+                width: 100%;
+                padding: 12px 20px;
+                margin: 8px 0;
+                display: inline-block;
+                border: 1px solid #ccc;
+                border-radius: 4px;
+                box-sizing: border-box;
+            }
+
+            input[type=date], select {
+                width: 100%;
+                padding: 12px 20px;
+                margin: 8px 0;
+                display: inline-block;
+                border: 1px solid #ccc;
+                border-radius: 4px;
+                box-sizing: border-box;
+            }
+
+
+
+            #myBtn {
+                width: 100%;
+                padding: 12px 20px;
+                margin: 8px 0;
+                display: inline-block;
+                border: 1px solid #ccc;
+                border-radius: 4px;
+                box-sizing: border-box;
+            }
+
+            input[type=submit] {
+                width: 100%;
+                background-color: #4CAF50;
+                color: white;
+                padding: 14px 20px;
+                margin: 8px 0;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+            }
+
+                input[type=submit]:hover {
+                    background-color: #45a049;
+                }
+
+        div {
+            direction: rtl;
+            border-radius: 5px;
+            background-color: #eceef0;
+            padding: 20px;
+            width: 200px;
+            margin: auto;
+        }
+
+            /* The Modal (background) */
+            .modal {
+                display: none; /* Hidden by default */
+                position: fixed; /* Stay in place */
+                z-index: 1; /* Sit on top */
+                padding-top: 100px; /* Location of the box */
+                left: 0;
+                top: 0;
+                width: 100%; /* Full width */
+                height: 100%; /* Full height */
+                overflow: auto; /* Enable scroll if needed */
+                background-color: rgb(0,0,0); /* Fallback color */
+                background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+            }
+
+            /* Modal Content */
+            .modal-content {
+                position: relative;
+                background-color: black;
+                margin: auto;
+                padding: 0;
+                border: 1px solid #888;
+                width: 50%;
+                box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+                -webkit-animation-name: animatetop;
+                -webkit-animation-duration: 0.4s;
+                animation-name: animatetop;
+                animation-duration: 0.4s
+            }
+
+            /* Add Animation */
+            @-webkit-keyframes animatetop {
+                from {
+                    top: -300px;
+                    opacity: 0
+                }
+
+                to {
+                    top: 0;
+                    opacity: 1
+                }
+            }
+
+            @keyframes animatetop {
+                from {
+                    top: -300px;
+                    opacity: 0
+                }
+
+                to {
+                    top: 0;
+                    opacity: 1
+                }
+            }
+
+            /* The Close Button */
+            .close {
+                color: white;
+                float: right;
+                font-size: 28px;
+                font-weight: bold;
+                padding-right: 5px;
+            }
+
+                .close:hover,
+                .close:focus {
+                    color: #000;
+                    text-decoration: none;
+                    cursor: pointer;
+                }
+
+            /*.modal-header {
+            padding: 2px 16px;
+            background-color: #5cb85c;
+            color: white;
+        }
+
+        .modal-body {
+            padding: 2px 16px;
+        }
+
+        .modal-footer {
+            padding: 2px 16px;
+            background-color: #5cb85c;
+            color: white;
+        }*/
+            input {
+                direction: rtl
+            }
+
+            h5 {
+                display: grid;
+                text-align: center;
+                margin: 20px;
+                font-size: 20px;
+                direction: rtl;
+                font-family: Century;
+                color: white;
+            }
+
+            p {
+                direction: rtl;
+                color: white;
+                text-align: center;
+            }
+
+        .loader {
+            border: 16px solid #f3f3f3;
+            border-radius: 50%;
+            border-top: 16px solid black;
+            width: 50px;
+            height: 50px;
+            -webkit-animation: spin 2s linear infinite;
+            animation: spin 2s linear infinite;
+            margin-top:20%;
+        }
+
+            @-webkit-keyframes spin {
+                0% {
+                    -webkit-transform: rotate(0deg);
+                }
+
+                100% {
+                    -webkit-transform: rotate(360deg);
+                }
+            }
+
+            @keyframes spin {
+                0% {
+                    transform: rotate(0deg);
+                }
+
+                100% {
+                    transform: rotate(360deg);
+                }
+            }
+    </style>
+    <script type="text/javascript">
+        setTimeout(function () {
+            document.getElementsByClassName("loader")[0].style.display = "none";
+            document.getElementById("all").style.display = "inline";
+        }, 2000);
+    </script>
+</head>
+<body onload="f()">
+    <div class="loader"></div>
+    <div id="all" style="display:none">
+        
+       
+            <div>
+                <form>
+                    <!--<label for="gender">שכבת גיל</label><br>
+                    <input type="radio" name="gender" value="A" checked>תינוקות<br>
+                    <input type="radio" name="gender" value="B">ילדים<br>
+                    <input type="radio" name="gender" value="F">ילדות<br />
+                    <br>-->
+                    <!--<label for="gender">מידה</label><br>
+                    <input type="number" min=0 max=16>
+                    <br>-->
+
+                    <label for="fname">שם מלא</label>
+                    <input type="text" id="fname" name="firstname" placeholder="הזן את שמך המלא...">
+
+                    <label for="country">איזור הזמנה</label>
+                    <select id="country" name="country">
+                        <option value="canada">גוש דן</option>
+                        <option value="australia">השפלה</option>
+                        <option value="usa">דרום</option>
+                        <option value="us">צפון</option>
+                    </select>
+
+                    <label for="fname">כתובת מלאה</label>
+                    <input type="text" id="fname" name="address" placeholder="הזן את כתובתך המלאה...">
+
+                    <label for="lname">מספר אשראי</label>
+                    <input type="text" id="lname" name="credit card" placeholder="הזן את מספר אשראי..">
+
+                    <label for="lname">תוקף אשראי</label>
+                    <input type="date" id="lname" name="credit card" placeholder="הזן את תוקף אשראי..">
+                    <br>
+                    <label for="lname">מספר גב הכרטיס</label>
+                    <input type="text" id="lname" name="credit card" placeholder="הזן שלוש ספרות מגב הכרטיס..">
+                    <br>
+
+
+                </form>
+
+                <!-- Trigger/Open The Modal -->
+                <button id="myBtn">קניה</button>
+
+                <!-- The Modal -->
+                <div id="myModal" class="modal">
+
+                    <!-- Modal content -->
+                    <div class="modal-content">
+
+                       
+                        <a href="יציאה.html" target="iframe2">
+                            <span class="close">&times;</span>
+                        </a>
+                        <h5>תודה שקנית אצלנו</h5>
+
+
+                        <p>המוצר יגיע לביתך בעוד 5 ימים</p>
+
+
+
+                        <h5>להתראות בקרוב...</h5>
+
+                    </div>
+
+                </div>
+
+
+                <script>
+                    // Get the modal
+                    var modal = document.getElementById('myModal');
+
+                    // Get the button that opens the modal
+                    var btn = document.getElementById("myBtn");
+
+                    // Get the <span> element that closes the modal
+                    var span = document.getElementsByClassName("close")[0];
+
+                    // When the user clicks the button, open the modal
+                    btn.onclick = function () {
+                        modal.style.display = "block";
+                    }
+
+                    // When the user clicks on <span> (x), close the modal
+                    span.onclick = function () {
+                        modal.style.display = "none";
+                    }
+
+                    // When the user clicks anywhere outside of the modal, close it
+                    window.onclick = function (event) {
+                        if (event.target == modal) {
+                            modal.style.display = "none";
+                        }
+                    }
+                </script>
+            </div>
+           
+        </body>
+</html>

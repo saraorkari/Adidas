@@ -1,0 +1,288 @@
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\פרויקט adidas.dll.config
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\פרויקט adidas.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\פרויקט adidas.pdb
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\csc.exe
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\csc.exe.config
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\csc.rsp
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\csi.exe
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\csi.exe.config
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\csi.rsp
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.CodeAnalysis.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.CSharp.Core.targets
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.Win32.Primitives.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.AppContext.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Collections.Immutable.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Console.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Diagnostics.Process.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Diagnostics.StackTrace.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.IO.Compression.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.IO.FileSystem.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.IO.Pipes.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Reflection.Metadata.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Security.AccessControl.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Security.Claims.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Security.Principal.Windows.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Text.Encoding.CodePages.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Threading.Thread.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.ValueTuple.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Xml.ReaderWriter.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Xml.XmlDocument.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Xml.XPath.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Xml.XPath.XDocument.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\vbc.exe
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\vbc.exe.config
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\vbc.rsp
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\VBCSCompiler.exe
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\VBCSCompiler.exe.config
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\obj\Debug\פרויקט adidas.dll
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\obj\Debug\פרויקט adidas.pdb
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\obj\Debug\פרויקט adidas.csprojAssemblyReference.cache
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\obj\Debug\פרויקט adidas.csproj.CoreCompileInputs.cache
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\obj\Debug\פרויקט adidas.csproj.CopyComplete
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\פרויקט adidas.dll.config
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\פרויקט adidas.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\פרויקט adidas.pdb
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\csc.exe
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\csc.exe.config
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\csc.rsp
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\csi.exe
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\csi.exe.config
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\csi.rsp
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.AppContext.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Collections.Immutable.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Console.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Diagnostics.Process.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.IO.Compression.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.IO.FileSystem.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.IO.Pipes.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Reflection.Metadata.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Security.AccessControl.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Security.Claims.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Security.Principal.Windows.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Threading.Thread.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.ValueTuple.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Xml.XmlDocument.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Xml.XPath.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\vbc.exe
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\vbc.exe.config
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\vbc.rsp
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\VBCSCompiler.exe
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\roslyn\VBCSCompiler.exe.config
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\obj\Debug\פרויקט adidas.csprojAssemblyReference.cache
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\obj\Debug\פרויקט adidas.csproj.CoreCompileInputs.cache
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\obj\Debug\פרויקט adidas.csproj.CopyComplete
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\obj\Debug\פרויקט adidas.dll
+F:\שרה אור קרעי\html\פרויקט adidas\פרויקט adidas\obj\Debug\פרויקט adidas.pdb
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\פרויקט adidas.dll.config
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\פרויקט adidas.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\פרויקט adidas.pdb
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\csc.exe
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\csc.exe.config
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\csc.rsp
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\csi.exe
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\csi.exe.config
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\csi.rsp
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.AppContext.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Collections.Immutable.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Console.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Diagnostics.Process.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.IO.Compression.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.IO.FileSystem.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.IO.Pipes.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Reflection.Metadata.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Security.AccessControl.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Security.Claims.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Security.Principal.Windows.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Threading.Thread.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.ValueTuple.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Xml.XmlDocument.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Xml.XPath.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\vbc.exe
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\vbc.exe.config
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\vbc.rsp
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\VBCSCompiler.exe
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\roslyn\VBCSCompiler.exe.config
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\obj\Debug\פרויקט adidas.csprojAssemblyReference.cache
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\obj\Debug\פרויקט adidas.csproj.CoreCompileInputs.cache
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\obj\Debug\פרויקט adidas.csproj.CopyComplete
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\obj\Debug\פרויקט adidas.dll
+F:\שרהלה\Html & Java Script\html\פרויקט adidas\פרויקט adidas\obj\Debug\פרויקט adidas.pdb
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\פרויקט adidas.dll.config
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\פרויקט adidas.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\פרויקט adidas.pdb
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\csc.exe
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\csc.exe.config
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\csc.rsp
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\csi.exe
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\csi.exe.config
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\csi.rsp
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\System.AppContext.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Collections.Immutable.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Console.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Diagnostics.Process.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\System.IO.Compression.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\System.IO.FileSystem.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\System.IO.Pipes.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Reflection.Metadata.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Security.AccessControl.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Security.Claims.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Security.Principal.Windows.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Threading.Thread.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\System.ValueTuple.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Xml.XPath.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\vbc.exe
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\vbc.exe.config
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\vbc.rsp
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\VBCSCompiler.exe
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\roslyn\VBCSCompiler.exe.config
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\sara or\פרויקט adidas\פרויקט adidas\obj\Debug\פרויקט adidas.csprojAssemblyReference.cache
+C:\sara or\פרויקט adidas\פרויקט adidas\obj\Debug\פרויקט adidas.csproj.CopyComplete
+C:\sara or\פרויקט adidas\פרויקט adidas\obj\Debug\פרויקט adidas.dll
+C:\sara or\פרויקט adidas\פרויקט adidas\obj\Debug\פרויקט adidas.pdb
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\פרויקט adidas.dll.config
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\פרויקט adidas.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\פרויקט adidas.pdb
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\csc.exe
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\csc.exe.config
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\csc.rsp
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\csi.exe
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\csi.exe.config
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\csi.rsp
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\System.AppContext.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Collections.Immutable.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Console.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Diagnostics.Process.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\System.IO.Compression.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\System.IO.FileSystem.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\System.IO.Pipes.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Reflection.Metadata.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Security.AccessControl.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Security.Claims.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Security.Principal.Windows.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Threading.Thread.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\System.ValueTuple.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Xml.XPath.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\vbc.exe
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\vbc.exe.config
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\vbc.rsp
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\VBCSCompiler.exe
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\roslyn\VBCSCompiler.exe.config
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\obj\Debug\פרויקט adidas.csprojAssemblyReference.cache
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\obj\Debug\פרויקט adidas.csproj.CopyComplete
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\obj\Debug\פרויקט adidas.dll
+C:\sara or\לימודים\פרוייקטים\פרויקט adidas\פרויקט adidas\obj\Debug\פרויקט adidas.pdb

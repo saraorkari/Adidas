@@ -1,0 +1,341 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <link href="StyleSheet1.css" rel="stylesheet" />
+    <style>
+        body {
+            font-family: "Lato", sans-serif;
+        }
+
+        .tablink {
+            background-color: #555;
+            color: white;
+            float: left;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            padding: 14px 16px;
+            font-size: 17px;
+            width: 25%;
+        }
+
+            .tablink:hover {
+                background-color: #777;
+                color: white;
+            }
+
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        td, th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #dfdfdf;
+        }
+
+        /* Style the tab content */
+        .tabcontent {
+            color: black;
+            display: none;
+            padding: 50px;
+            text-align: center;
+        }
+
+        #London {
+            background-color: #bfbfbf;
+        }
+
+        #Paris {
+            background-color: #a6a6a6;
+        }
+
+        #Tokyo {
+            background-color: #8c8c8c;
+        }
+
+        #Oslo {
+            background-color: #737373;
+        }
+
+      
+        {
+            font-family: Antipasto;
+            color: lightgray;
+            text-shadow: 2px 2px 2px black;
+            margin: 0px;
+            font-size: 70px;
+        }
+
+        #legend {
+            font-size: 50px;
+            font-family: Times New Roman;
+            color: black
+        }
+
+        legend {
+            text-align: center;
+            color:black;
+        }
+
+        fieldset {
+            background-color: #eceef0;
+            border-top: 20px,solid;
+            height: 100%;
+        }
+
+            fieldset span {
+                text-align: center;
+                font-size: 40px;
+                margin-bottom: 5%;
+                margin-left: 685px;
+                font-family: 'Freestyle Script';
+            }
+
+        form * {
+            text-align: center;
+            margin: 5px;
+            margin-top: 2%;
+        }
+    </style>
+</head>
+<body>
+    <div class="head">
+        <!--<header style="color:darkgray" dir="ltr">
+
+            <img class="k" src="Pictures/pandorab.PNG" />
+        </header>-->
+    </div>
+    <fieldset">
+        <legend> <h1 id="legend">סניפים</h1></legend>
+      
+        <br />
+        <br />
+
+        <button class="tablink" onclick="openCity('London', this, 'lightgray')" id="defaultOpen">ירושלים</button>
+        <button class="tablink" onclick="openCity('Paris', this, 'lightgray')">חיפה</button>
+        <button class="tablink" onclick="openCity('Tokyo', this, 'lightgray')">תל אביב</button>
+        <button class="tablink" onclick="openCity('Oslo', this, 'lightgray')">הרצליה</button>
+        <div id="London" class="tabcontent">
+            <br />
+            <br />
+            <br />
+            <table>
+                <tr>
+
+                    <th>City</th>
+                    <th>Adress</th>
+                    <th>Tel NO.</th>
+                </tr>
+                <tr>
+                    <td>Alfreds Futterkiste</td>
+                    <td>Maria Anders 17/8</td>
+                    <td>212-4521526</td>
+                </tr>
+                <tr>
+                    <td>Centro comercial Moctezuma</td>
+                    <td>Francisco Chang 18/4</td>
+                    <td>212-5214522</td>
+                </tr>
+                <tr>
+                    <td>Ernst Handel</td>
+                    <td>Roland Mendel 98/4</td>
+                    <td>212-9587411</td>
+                </tr>
+                <tr>
+                    <td>Island Trading</td>
+                    <td>Helen Bennett 1/7</td>
+                    <td>212-5264888</td>
+                </tr>
+                <tr>
+                    <td>Laughing Bacchus Winecellars</td>
+                    <td>Yoshi Tannamuri 67/1</td>
+                    <td>212-4855555</td>
+                </tr>
+                <tr>
+                    <td>Magazzini Alimentari Riuniti</td>
+                    <td>Giovanni Rovelli 34/8</td>
+                    <td>212-8474452</td>
+                </tr>
+            </table>
+        </div>
+
+        <div id="Paris" class="tabcontent">
+            <br />
+            <br />
+            <br />
+            <table>
+                <tr>
+
+                    <th>City</th>
+                    <th>Adress</th>
+                    <th>Tel NO.</th>
+                </tr>
+
+                <tr>
+                    <td>Centro comercial Moctezuma</td>
+                    <td>Francisco Chang 18/4</td>
+                    <td>212-5214522</td>
+                </tr>
+                <tr>
+                    <td>Alfreds Futterkiste</td>
+                    <td>Maria Anders 17/8</td>
+                    <td>212-4521526</td>
+                </tr>
+
+                <tr>
+                    <td>Island Trading</td>
+                    <td>Helen Bennett 1/7</td>
+                    <td>212-5264888</td>
+                </tr>
+                <tr>
+                    <td>Ernst Handel</td>
+                    <td>Roland Mendel 98/4</td>
+                    <td>212-9587411</td>
+                </tr>
+
+                <tr>
+                    <td>Magazzini Alimentari Riuniti</td>
+                    <td>Giovanni Rovelli 34/8</td>
+                    <td>212-8474452</td>
+                </tr>
+                <tr>
+                    <td>Laughing Bacchus Winecellars</td>
+                    <td>Yoshi Tannamuri 67/1</td>
+                    <td>212-4855555</td>
+                </tr>
+            </table>
+        </div>
+
+        <div id="Tokyo" class="tabcontent">
+            <br />
+            <br />
+            <br />
+            <table>
+                <tr>
+
+                    <th>City</th>
+                    <th>Adress</th>
+                    <th>Tel NO.</th>
+                </tr>
+                <tr>
+                    <td>Island Trading</td>
+                    <td>Helen Bennett 1/7</td>
+                    <td>212-5264888</td>
+                </tr>
+                <tr>
+                    <td>Laughing Bacchus Winecellars</td>
+                    <td>Yoshi Tannamuri 67/1</td>
+                    <td>212-4855555</td>
+                </tr>
+
+                <tr>
+                    <td>Alfreds Futterkiste</td>
+                    <td>Maria Anders 17/8</td>
+                    <td>212-4521526</td>
+                </tr>
+                <tr>
+                    <td>Ernst Handel</td>
+                    <td>Roland Mendel 98/4</td>
+                    <td>212-9587411</td>
+                </tr>
+
+                <tr>
+                    <td>Magazzini Alimentari Riuniti</td>
+                    <td>Giovanni Rovelli 34/8</td>
+                    <td>212-8474452</td>
+
+                <tr>
+                    <td>Centro comercial Moctezuma</td>
+                    <td>Francisco Chang 18/4</td>
+                    <td>212-5214522</td>
+                </tr>
+                </tr>
+            </table>
+        </div>
+
+        <div id="Oslo" class="tabcontent">
+           <br />
+           <br />
+           <br />
+            <table>
+                <tr>
+
+                    <th>City</th>
+                    <th>Adress</th>
+                    <th>Tel NO.</th>
+                </tr>
+
+                <tr>
+                    <td>Ernst Handel</td>
+                    <td>Roland Mendel 98/4</td>
+                    <td>212-9587411</td>
+                </tr>
+                <tr>
+                    <td>Alfreds Futterkiste</td>
+                    <td>Maria Anders 17/8</td>
+                    <td>212-4521526</td>
+                </tr>
+                <tr>
+                    <td>Centro comercial Moctezuma</td>
+                    <td>Francisco Chang 18/4</td>
+                    <td>212-5214522</td>
+                </tr>
+                <tr>
+                    <td>Island Trading</td>
+                    <td>Helen Bennett 1/7</td>
+                    <td>212-5264888</td>
+                </tr>
+                <tr>
+                    <td>Magazzini Alimentari Riuniti</td>
+                    <td>Giovanni Rovelli 34/8</td>
+                    <td>212-8474452</td>
+                </tr>
+
+                <tr>
+                    <td>Laughing Bacchus Winecellars</td>
+                    <td>Yoshi Tannamuri 67/1</td>
+                    <td>212-4855555</td>
+                </tr>
+
+            </table>
+        </div>
+
+
+        <script>
+        function openCity(cityName, elmnt, color) {
+            var i, tabcontent, tablinks;
+            tabcontent = document.getElementsByClassName("tabcontent");
+            for (i = 0; i < tabcontent.length; i++) {
+                tabcontent[i].style.display = "none";
+            }
+            tablinks = document.getElementsByClassName("tablink");
+            for (i = 0; i < tablinks.length; i++) {
+                tablinks[i].style.backgroundColor = "";
+            }
+            document.getElementById(cityName).style.display = "block";
+            elmnt.style.backgroundColor = color;
+
+        }
+        // Get the element with id="defaultOpen" and click on it
+        document.getElementById("defaultOpen").click();
+        </script>
+    </fieldset>
+    <!--<footer id="footer">
+        <div id="i">
+            <ul>
+                <li><a class="p" href="0.HOMEPAGE.html">Home Page     </a></li>
+                <li> <a class="p" href="AboutUs.html">About Us</a></li>
+                <li> <a class="p" href="Mapa.html">Our Jewlery</a></li>
+            </ul>
+
+        </div>
+    </footer>-->
+</body>
+</html> 
